@@ -31,9 +31,9 @@ STEP 9: We demonstrate the model's practical use by randomly selecting and testi
 
 **PROGRAM**
 
-**Name:**
+**Name:** Nishal K
 
-**Register Number:**
+**Register Number:** 2305001021
 
 ```
 import tensorflow as tf
